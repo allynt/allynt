@@ -1,24 +1,11 @@
 ## Hi there 👋
 
-I like to code.  I especially like Django.  <img height="16" width="16" src="https://cdn.simpleicons.org/django/black/white" />
+I like to code.  I especially like Django. <img height="16" width="16" src="https://cdn.simpleicons.org/django/black/white" />
 
 I've done lots of work with climate models and GIS applications.
 
 Here is an Under Construction Sign: :construction:
 
-![](https://komarev.com/ghpvc/?username=allynt)
-
 <!--
-**allynt/allynt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=allynt)
 -->
