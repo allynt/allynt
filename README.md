@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I like to code.  I especially like Django.  
+
+I've done lots of work with climate models and GIS applications.
+
+Here is an Under Construction Sign: :construction:
+
 <!--
 **allynt/allynt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
