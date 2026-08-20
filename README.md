@@ -6,6 +6,4 @@ I've done lots of work with climate models and GIS applications.
 
 Here is an Under Construction Sign: :construction:
 
-<!--
 ![](https://komarev.com/ghpvc/?username=allynt)
--->
